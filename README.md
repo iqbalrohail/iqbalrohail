@@ -1,7 +1,7 @@
 ### Hi Devs 👋
 <h1 align="center">I am Rohail Iqbal</h1>
 <p align="center"> <b><i>Talk is cheap! show me the code </i><b> </p>
-
+###Here's a bit about me 
 <br>
 
 - 🔭 I’m currently working on **Java (Spring boot)**
@@ -29,7 +29,6 @@
 ## Rohail Iqbal's Github Stats
 
 <span> ![Rohail's github stats](https://github-readme-stats.vercel.app/api?username=iqbalrohail&theme=tokyonight&show_icons=true&count_private=true) </span>
-<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalrohail&theme=tokyonight&show=csharp)</span>
 
 
 
