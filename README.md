@@ -1,6 +1,8 @@
 ### Hi Devs 👋
 <h1 align="center">I am Rohail Iqbal</h1>
-<p align="center"> <b><i>Hi , I am Rohail Iqbal currently persuing my Bachelor degree in Computer Science. Passionate and skilled Software Engineer with expertise in Java, Spring Boot, and microservices architecture. Proficient in building reporting and ETL systems using Open Talend Studio. Strong foundation in data structures and algorithms. Actively contribute to open-source projects. Dedicated to delivering high-quality solutions.</i><b> </p>
+<p align="center"> <b><i>As a Data Platform Engineer, I specialize in building scalable, reliable, and production-grade data systems that power data-driven insights. With a strong foundation in core software engineering and distributed systems, I bring a systems-thinking approach to solving complex data challenges.
+
+I design and develop end-to-end ETL/ELT pipelines, manage workflow orchestration using Apache Airflow and Prefect, and work across both OLAP and OLTP systems. My focus areas include modern data architectures, data observability, and automation—leveraging technologies and tools such as Python, Java, Spark, Talend, Kafka, DBT, Soda, Alembic, Postgres, Snowflake, Clickhouse and Kubernetes.</i><b> </p>
 
 ### Connect me at Linkedin
 
