@@ -6,7 +6,7 @@ I design and develop end-to-end ETL/ELT pipelines, manage workflow orchestration
 
 ### Connect me at Linkedin
 
-<span><a href="https://www.linkedin.com/mwlite/in/rohail-iqbal-7222891b6" ><img src="images/linkedin.png" width="30" height="30" /></a>
+<span><a href="www.linkedin.com/in/rohail-iqbal-7222891b6" ><img src="images/linkedin.png" width="30" height="30" /></a>
 
 <br>
 
